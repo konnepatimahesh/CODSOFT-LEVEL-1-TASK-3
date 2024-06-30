@@ -22,10 +22,11 @@ Duration : 20june to 20july 2024
 
     * Define the structure and layout of the calculator.
     * Create wireframes or mockups of the UI.
+
     
    2. HTML Structure:
 
-    * Develop the HTML structure for the calculator, including buttons for digits, operators, and a display screen.
+    *Develop the HTML structure for the calculator, including buttons for digits, operators, and a display screen.
     
    3. CSS Styling:
 

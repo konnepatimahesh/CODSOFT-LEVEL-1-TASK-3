@@ -17,32 +17,24 @@ Duration : 20june to 20july 2024
    * Aesthetic Design: Apply CSS to make the calculator visually appealing.
 
  # Key Activities: #
- 
-   1. Planning and Design:
 
-    * Define the structure and layout of the calculator.
-    * Create wireframes or mockups of the UI.
+1. Planning and Design: 
 
-    
-   2. HTML Structure:
+ * Define the structure and layout of the calculator.
+ * Create wireframes or mockups of the UI.
+2. HTML Structure:
 
-    *Develop the HTML structure for the calculator, including buttons for digits, operators, and a display screen.
-    
-   3. CSS Styling:
+ * Develop the HTML structure for the calculator, including buttons for digits, operators, and a display screen.
 
-    * Style the calculator using CSS to ensure it is visually appealing.
-    * Implement responsive design techniques to make sure it works on various screen sizes.
-    
-   4. JavaScript Functionality:
+3. JavaScript Functionality:
 
-    * Write JavaScript code to handle user inputs and perform calculations.
-    * Implement event listeners for button clicks.
-    * Update the display with the result of calculations.
-    
-   5. Testing and Debugging:
+ * Basic Operations: Implement basic arithmetic operations (addition, subtraction, multiplication, division).
+ * Advanced Features: Optionally, include advanced features such as percentage, square root, memory functions, etc.
 
-    * Test the calculator for various use cases and edge cases.
-    * Debug and fix any issues that arise.
+4. Testing and Debugging:
+
+ * Cross-Browser Compatibility: Test the calculator across different web browsers to ensure consistent behavior.
+ * Edge Cases: Test for edge cases and unusual input scenarios to make the calculator robust.
 
     
 # Technologies Used:

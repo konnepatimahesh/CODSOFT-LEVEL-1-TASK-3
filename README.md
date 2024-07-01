@@ -8,7 +8,7 @@ Domain : Web Development
 
 Duration : 20june to 20july 2024
 
-# overview of the project #
+# overview of the calculator #
 
 # Objectives:
    * Basic Functionality: Implement basic arithmetic operations like addition, subtraction, multiplication, and division.
